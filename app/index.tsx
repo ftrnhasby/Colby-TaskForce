@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text style={{ fontFamily:'outfit-bold', fontSize:30 }}>Welcome to Colby app</Text>
     </View>
   );
 }
